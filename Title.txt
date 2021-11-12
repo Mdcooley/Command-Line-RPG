@@ -1,0 +1,15 @@
+﻿Console.WriteLine(@"  ..          .n        ....                    ...                  ...                     ....          =u       "); 
+Console.WriteLine(" 888B.      z8\"     .xH888888Hx.              x88\" !.              x88\" !.               .xH888888Hx.       '%b.    "); 
+Console.WriteLine(@"48888E    x88~    .H8888888888888:           888X   8  .-=x.      888X   8  .-=x.      .H8888888888888:       88b   "); 
+Console.WriteLine("'8888'   x888     888*\"\"\"?\"\"*88888X         X8888. X\" :'.H88L    X8888. X\" :'.H88L     888*\"\"\"?\"\"*88888X      ?88N  "); 
+Console.WriteLine(" Y88F   :888R    'f     d8x.   ^%88k        ?88888X.  f 4888\"    ?88888X.  f 4888\"    'f     d8x.   ^%88k     4888b "); 
+Console.WriteLine(" '88    8888R    '>    <88888X   '?8       .x*888888hX   `\"`    .x*888888hX   `\"`     '>    <88888X   '?8     48888r"); 
+Console.WriteLine(@"  8F   :8888R     `:..:`888888>    8>     d8  `?8888888.       d8  `?8888888.          `:..:`888888>    8>    48888k"); 
+Console.WriteLine("  4    48888R            `\"*88     X     X88L   `%888888k     X88L   `%888888k                `\"*88     X     48888R"); 
+Console.WriteLine("  .    '8888R       .xHHhx..\"      !     8888x     ?88888>    8888x     ?88888>          .xHHhx..\"      !     48888F"); 
+Console.WriteLine(@" u8N.   8888R      X88888888hx. ..!      888888hx.x! ?888>    888888hx.x! ?888>         X88888888hx. ..!      48888 "); 
+Console.WriteLine("\"*88%   '888R     !   \"*888888888\"       '*8888888\"  '888     '*8888888\"  '888         !   \"*888888888\"       4888F "); 
+Console.WriteLine("  \"\"     \"888            ^\"***\"`           `\"\"\"\"\"   .88%        `\"\"\"\"\"   .88%                 ^\"***\"`         d88P  "); 
+Console.WriteLine("          ^88L                                                                                               .88\"   "); 
+Console.WriteLine("            \"Ru                                                                                             .@%     "); 
+Console.WriteLine("              '\"                                                                                           \"        "); 
